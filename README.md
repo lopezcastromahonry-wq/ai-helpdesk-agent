@@ -73,11 +73,11 @@ The goal of this project is to demonstrate how artificial intelligence can suppo
 
 ## Screenshots
 
-### Project Overview
+### Project Interface
 
 ![Project Overview](project-overview.png)
 
-### AI Helpdesk Agent
+### AI Agent Home Page
 
 ![Home Page](home-page.png)
 
@@ -85,15 +85,15 @@ The goal of this project is to demonstrate how artificial intelligence can suppo
 
 ![Configuration](configuration.png)
 
-### Example Conversation 1
+### Customer Support Example
 
 ![Conversation 1](conversation-1.png)
 
-### Example Conversation 2
+### Troubleshooting Example
 
 ![Conversation 2](conversation-2.png)
 
-### Agent Overview
+### Agent Details
 
 ![Agent Overview](agent-overview.png)
 
