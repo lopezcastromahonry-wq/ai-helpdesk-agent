@@ -14,6 +14,7 @@ Try the AI Helpdesk Agent here:
 
 [Open AI Helpdesk Agent](https://ai.studio/apps/42f39e1c-ac7a-4416-84c9-7cbb0991e2e0)
 
+
 ## Features
 
 - Answers common customer questions
@@ -44,6 +45,7 @@ This project demonstrates how AI can help organizations improve customer support
 
 Designed and developed this AI-powered helpdesk assistant using Google AI Studio and prompt engineering techniques. I focused on creating a practical AI solution that improves customer support workflows, reduces repetitive tasks, and enhances the customer experience.
 
+
 ## How It Works
 
 1. User submits a customer support question.
@@ -56,6 +58,7 @@ Designed and developed this AI-powered helpdesk assistant using Google AI Studio
 ## Project Goal
 
 The goal of this project is to demonstrate how artificial intelligence can support customer service teams by automating common inquiries, reducing response times, and improving customer satisfaction.
+
 
 ## Skills Demonstrated
 
@@ -93,8 +96,9 @@ The goal of this project is to demonstrate how artificial intelligence can suppo
 ### Agent Overview
 
 ![Agent Overview](agent-overview.png)
+
 ## Status
 
-Project in development.
+Completed - Version 1.0
 
-Future updates will include screenshots, conversation examples, workflow documentation, and additional improvements.
+Future improvements may include additional workflows, expanded knowledge sources, and more advanced customer support scenarios.
