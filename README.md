@@ -34,6 +34,19 @@ This project demonstrates how AI can help organizations improve customer support
 
 ---
 
+## How It Works
+
+1. User submits a customer support question.
+2. The AI agent analyzes the request using natural language processing.
+3. The agent generates a helpful response based on the provided instructions and knowledge.
+4. The user receives a consistent and efficient support experience.
+
+---
+
+## Project Goal
+
+The goal of this project is to demonstrate how artificial intelligence can support customer service teams by automating common inquiries, reducing response times, and improving customer satisfaction.
+
 ## Skills Demonstrated
 
 - AI Prompt Engineering
