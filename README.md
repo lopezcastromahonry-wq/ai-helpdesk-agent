@@ -15,13 +15,12 @@ Try the AI Helpdesk Agent here:
 [Open AI Helpdesk Agent](https://ai.studio/apps/42f39e1c-ac7a-4416-84c9-7cbb0991e2e0)
 
 
-## Features
+## Future Improvements
 
-- Answers common customer questions
-- Assists with troubleshooting
-- Provides consistent support responses
-- Reduces response time
-- Improves customer experience
+- Add more customer support scenarios
+- Expand the knowledge base
+- Improve response personalization
+- Integrate additional automation workflows
 
 ---
 
