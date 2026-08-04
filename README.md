@@ -47,14 +47,29 @@ This project demonstrates how AI can help organizations improve customer support
 
 ## Screenshots
 
+### Project Overview
+
+![Project Overview](project-overview.png)
+
 ### AI Helpdesk Agent
 
-![Home](image.png)
+![Home Page](home-page.png)
 
-### Conversation Example
+### Agent Configuration
 
-![Conversation](image (2).png)
+![Configuration](configuration.png)
 
+### Example Conversation 1
+
+![Conversation 1](conversation-1.png)
+
+### Example Conversation 2
+
+![Conversation 2](conversation-2.png)
+
+### Agent Overview
+
+![Agent Overview](agent-overview.png)
 ## Status
 
 Project in development.
