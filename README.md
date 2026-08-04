@@ -34,6 +34,10 @@ This project demonstrates how AI can help organizations improve customer support
 
 ---
 
+## Project Goal
+
+The goal of this project is to demonstrate how artificial intelligence can support customer service teams by automating common inquiries, reducing response times, and improving customer satisfaction.
+
 ## How It Works
 
 1. User submits a customer support question.
