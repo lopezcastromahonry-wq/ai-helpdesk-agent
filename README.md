@@ -8,6 +8,12 @@ The assistant was developed using Google AI Studio and prompt engineering techni
 
 ---
 
+## Live Demo
+
+Try the AI Helpdesk Agent here:
+
+[Open AI Helpdesk Agent]([PASTE_YOUR_GOOGLE_AI_STUDIO_LINK_HERE](https://ai.studio/apps/42f39e1c-ac7a-4416-84c9-7cbb0991e2e0))
+
 ## Features
 
 - Answers common customer questions
