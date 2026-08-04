@@ -96,7 +96,8 @@ Future improvements may include additional workflows, expanded knowledge sources
 
 ## Future Improvements
 
-- Add more customer support scenarios
-- Expand the knowledge base
-- Improve response personalization
-- Integrate additional automation workflows
+- Answers common customer questions
+- Assists with troubleshooting
+- Provides consistent support responses
+- Reduces response time
+- Improves customer experience
