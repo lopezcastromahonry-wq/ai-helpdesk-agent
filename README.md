@@ -40,9 +40,9 @@ This project demonstrates how AI can help organizations improve customer support
 
 ---
 
-## Project Goal
+## My Role
 
-The goal of this project is to demonstrate how artificial intelligence can support customer service teams by automating common inquiries, reducing response times, and improving customer satisfaction.
+Designed and developed this AI-powered helpdesk assistant using Google AI Studio and prompt engineering techniques. I focused on creating a practical AI solution that improves customer support workflows, reduces repetitive tasks, and enhances the customer experience.
 
 ## How It Works
 
