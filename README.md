@@ -14,14 +14,6 @@ Try the AI Helpdesk Agent here:
 
 [Open AI Helpdesk Agent](https://ai.studio/apps/42f39e1c-ac7a-4416-84c9-7cbb0991e2e0)
 
-
-## Future Improvements
-
-- Add more customer support scenarios
-- Expand the knowledge base
-- Improve response personalization
-- Integrate additional automation workflows
-
 ---
 
 ## Technologies Used
@@ -101,3 +93,10 @@ The goal of this project is to demonstrate how artificial intelligence can suppo
 Completed - Version 1.0
 
 Future improvements may include additional workflows, expanded knowledge sources, and more advanced customer support scenarios.
+
+## Future Improvements
+
+- Add more customer support scenarios
+- Expand the knowledge base
+- Improve response personalization
+- Integrate additional automation workflows
